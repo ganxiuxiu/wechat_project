@@ -1,0 +1,5 @@
+Django==3.0.4
+requests==2.23.0
+uwsgi
+pyMysql
+django-crontab
